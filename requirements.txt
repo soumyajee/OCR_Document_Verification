@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+pdf2image
+pytesseract
+sentence-transformers
+faiss-cpu
+torch
+numpy
+python-dotenv
+openai
+langchain-openai
+pdfplumber
+langchain
+langchain_community
+python-multipart
